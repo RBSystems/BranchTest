@@ -7,3 +7,12 @@ C:\Dropbox\Projects\SIMPLSharp\test\test\bin\Debug\SimplSharpPro.exe
 C:\Dropbox\Projects\SIMPLSharp\test\test\obj\Debug\ResolveAssemblyReference.cache
 C:\Dropbox\Projects\SIMPLSharp\test\test\obj\Debug\test.dll
 C:\Dropbox\Projects\SIMPLSharp\test\test\obj\Debug\test.pdb
+C:\Dropbox\Projects\SIMPLSharp\BranchTest\test\bin\Debug\test.dll
+C:\Dropbox\Projects\SIMPLSharp\BranchTest\test\bin\Debug\test.pdb
+C:\Dropbox\Projects\SIMPLSharp\BranchTest\test\bin\Debug\Crestron.SimplSharpPro.DeviceSupport.dll
+C:\Dropbox\Projects\SIMPLSharp\BranchTest\test\bin\Debug\SimplSharpCustomAttributesInterface.dll
+C:\Dropbox\Projects\SIMPLSharp\BranchTest\test\bin\Debug\SimplSharpHelperInterface.dll
+C:\Dropbox\Projects\SIMPLSharp\BranchTest\test\bin\Debug\SimplSharpPro.exe
+C:\Dropbox\Projects\SIMPLSharp\BranchTest\test\obj\Debug\ResolveAssemblyReference.cache
+C:\Dropbox\Projects\SIMPLSharp\BranchTest\test\obj\Debug\test.dll
+C:\Dropbox\Projects\SIMPLSharp\BranchTest\test\obj\Debug\test.pdb

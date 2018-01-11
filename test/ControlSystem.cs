@@ -26,7 +26,7 @@ namespace test
         {
             try
             {
-				CrestronConsole.PrintLine("This is the master branch");
+				CrestronConsole.PrintLine("This is branch1");
             }
             catch (Exception e)
             {
